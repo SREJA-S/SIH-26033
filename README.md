@@ -41,6 +41,8 @@ DATABASE:
  PostgreSQL (for transactional data, user profiles, and catalog management) combined with Redis for real-time inventory caching.
  ROUTE OPTIMIZATION:
  Algorithms (such as Genetic Algorithms or Google OR-Tools) integrated with GIS mapping for efficient logistics scheduling, minimizing transit time and post-harvest spoilage for perishable produce.
+ <img width="1024" height="612" alt="image" src="https://github.com/user-attachments/assets/cb22eaa2-93ae-4956-b434-f13d4a8011fa" />
+
 
 ## Feasibility and Viability
 Monetization via a low-percentage transaction fee or subscription tier for bulk enterprise buyers.
